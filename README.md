@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Good day! My name is Alexey, I am a junior specialist in software development on the .Net platform. Open to appearance</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexscience&label=Profile%20views&color=0e75b6&style=flat" alt="alexscience" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexscience" alt="alexscience" /></a> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
